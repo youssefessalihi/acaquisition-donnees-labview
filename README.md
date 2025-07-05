@@ -102,12 +102,12 @@ Cela permet un accès rapide et pratique aux résultats après l’exécution du
 
 ### 🧠 Block Diagram :
 
-![Block Diagram]!![image](https://github.com/user-attachments/assets/b7c3323e-0ce8-46c1-aa2e-caad5491a63c)
+(https://github.com/user-attachments/assets/b7c3323e-0ce8-46c1-aa2e-caad5491a63c)
 
 
 ### 👁️ Interface utilisateur (Front Panel) :
 
-![Front Panel]![0e16b8ba-4510-4a4c-9731-65b14a50dbf5-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/81680d21-51a4-41a5-9a2e-f4d3f8e98b1d)
+(https://github.com/user-attachments/assets/81680d21-51a4-41a5-9a2e-f4d3f8e98b1d)
 
 
 ---
