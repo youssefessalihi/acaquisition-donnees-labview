@@ -102,12 +102,12 @@ Cela permet un accès rapide et pratique aux résultats après l’exécution du
 
 ### 🧠 Block Diagram :
 
-(https://github.com/user-attachments/assets/b7c3323e-0ce8-46c1-aa2e-caad5491a63c)
+![Block Diagram](https://github.com/user-attachments/assets/b7c3323e-0ce8-46c1-aa2e-caad5491a63c)
 
 
 ### 👁️ Interface utilisateur (Front Panel) :
 
-(https://github.com/user-attachments/assets/81680d21-51a4-41a5-9a2e-f4d3f8e98b1d)
+![Front Panel](https://github.com/user-attachments/assets/81680d21-51a4-41a5-9a2e-f4d3f8e98b1d)
 
 
 ---
