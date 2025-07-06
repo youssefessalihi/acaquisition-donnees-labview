@@ -41,7 +41,7 @@ Le **LM35** est un capteur analogique linéaire qui fournit une tension **propor
 
 ### Conversion :
 ```
-Température (°C) = Tension (V) / 10
+Température (°C) = Tension (V) X 100
 ```
 
 Le capteur LM35 est simple, précis, et largement utilisé dans les systèmes embarqués.
